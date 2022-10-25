@@ -1,0 +1,20 @@
+[
+  {
+    "tittle": "Nike air max",
+    "price": 120,
+    "thumbnail": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe4606d11/products/NI_DC9437-100/NI_DC9437-100-1.JPG",
+    "id": 1
+  },
+  {
+    "tittle": "Nike air jordan",
+    "price": 200,
+    "thumbnail": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe4606d11/products/NI_DC9437-100/NI_DC9437-100-1.JPG",
+    "id": 2
+  },
+  {
+    "tittle": "Nike air force",
+    "price": 234,
+    "thumbnail": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwe4606d11/products/NI_DC9437-100/NI_DC9437-100-1.JPG",
+    "id": 3
+  }
+]
